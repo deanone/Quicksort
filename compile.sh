@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc *.c -o quicksort_lomuto 
+gcc *.c -o quicksort_lomuto.out 

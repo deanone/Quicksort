@@ -93,7 +93,7 @@ int main(int argc, char *argv[])
 	else
 	{
 		printf("Usage:\n");
-		printf("./quicksort_lomute <number of values in array> <lowest of values range> <highest of values range>\n");
+		printf("./quicksort_lomuto.out <number of values in array> <lowest of values range> <highest of values range>\n");
 	}
 
 	return 0;
